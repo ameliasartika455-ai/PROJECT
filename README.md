@@ -312,7 +312,7 @@ Diagram lingkaran menunjukkan proporsi responden pada setiap program studi. Bagi
 
 ---
 
-# 4. Statistik Deskriptif Skor Total
+# Statistik Deskriptif Skor Total
 
 Skor total diperoleh dari penjumlahan seluruh item P1–P10.
 
@@ -365,7 +365,7 @@ Berdasarkan hasil uji reliabilitas diperoleh nilai Cronbach Alpha sebesar 0,852.
 
 ---
 
-# 7. Naive Estimation
+# Naive Estimation
 
 Estimasi sederhana dilakukan dengan menghitung proporsi responden puas terhadap total responden.
 
@@ -380,7 +380,7 @@ Hasil naive estimation menunjukkan bahwa sebesar 93,33% responden merasa puas te
 
 ---
 
-# 8. Weighted Estimation
+# Weighted Estimation
 
 Weighted estimation dilakukan untuk memperoleh estimasi yang mempertimbangkan proporsi populasi masing-masing program studi.
 
@@ -410,7 +410,7 @@ Hasil weighted estimation sebesar 100% menunjukkan bahwa setelah mempertimbangka
 
 ---
 
-# 9. Interpretasi Grafik Perbandingan Estimasi
+# Interpretasi Grafik Perbandingan Estimasi
 
 Grafik perbandingan estimasi menunjukkan bahwa metode weighted estimation menghasilkan nilai kepuasan yang lebih tinggi dibandingkan naive estimation. Naive estimation menghasilkan tingkat kepuasan sebesar 93,33%, sedangkan weighted estimation menghasilkan tingkat kepuasan sebesar 100%. Hal ini menunjukkan bahwa pemberian bobot berdasarkan proporsi populasi dapat mempengaruhi hasil estimasi akhir.
 
